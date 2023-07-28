@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-me
+  description: Simplest java Program for a friendship Test
+  tags:
+    - go
+    - website
+    - java
+spec:
+  type: service
+  lifecycle: production
+  owner: nelly-nakhero
